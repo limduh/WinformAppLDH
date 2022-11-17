@@ -1,0 +1,6 @@
+D:\WindowsFormsApplication_LDH\Assembly\bin\Debug\Assembly.dll
+D:\WindowsFormsApplication_LDH\Assembly\bin\Debug\Assembly.pdb
+D:\WindowsFormsApplication_LDH\Assembly\obj\Debug\Assembly.csproj.AssemblyReference.cache
+D:\WindowsFormsApplication_LDH\Assembly\obj\Debug\Assembly.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApplication_LDH\Assembly\obj\Debug\Assembly.dll
+D:\WindowsFormsApplication_LDH\Assembly\obj\Debug\Assembly.pdb

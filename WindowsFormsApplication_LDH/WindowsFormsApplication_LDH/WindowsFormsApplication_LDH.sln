@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainForm", "MainForm\MainForm.csproj", "{5F6BC318-4F5D-4A23-91E5-3C1E3CAA6935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly", "Assembly\Assembly.csproj", "{6BF10F16-4EFA-45A6-9450-17CABE207B1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form_List", "Form_List\Form_List.csproj", "{111DEDDB-97A5-49E5-8CC1-10FBB93706D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F6BC318-4F5D-4A23-91E5-3C1E3CAA6935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F6BC318-4F5D-4A23-91E5-3C1E3CAA6935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F6BC318-4F5D-4A23-91E5-3C1E3CAA6935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F6BC318-4F5D-4A23-91E5-3C1E3CAA6935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BF10F16-4EFA-45A6-9450-17CABE207B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF10F16-4EFA-45A6-9450-17CABE207B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF10F16-4EFA-45A6-9450-17CABE207B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF10F16-4EFA-45A6-9450-17CABE207B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{111DEDDB-97A5-49E5-8CC1-10FBB93706D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111DEDDB-97A5-49E5-8CC1-10FBB93706D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111DEDDB-97A5-49E5-8CC1-10FBB93706D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111DEDDB-97A5-49E5-8CC1-10FBB93706D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4071869D-D65A-43EF-A456-64F17FBBD2EA}
+	EndGlobalSection
+EndGlobal
